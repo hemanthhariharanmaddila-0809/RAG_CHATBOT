@@ -1,0 +1,14 @@
+{
+  "response_times": {
+    "faq_matcher_ms": 340,
+    "llm_generation_ms": 1150
+  },
+  "accuracy": {
+    "faq_match_rate": 0.89,
+    "fallback_rate": 0.11
+  },
+  "system_health": {
+    "uptime_percentage": 99.9,
+    "concurrent_users_supported": 52
+  }
+}

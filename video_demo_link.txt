@@ -1,0 +1,12 @@
+# Video Demo Script & Link
+
+**Link:** https://youtu.be/placeholder_link
+
+## Script Timestamps
+- **0:00 - 0:30** Introduction and Project Setup
+- **0:31 - 1:15** Running the Application & Redis locally
+- **1:16 - 2:00** Ngrok setup and Webhook verification
+- **2:01 - 3:30** Live Demo on Telegram (FAQ matches & LLM fallbacks)
+- **3:31 - 4:10** Voice Message Transcription Demo
+- **4:11 - 4:45** Code Walkthrough (FastAPI, Redis, Sentence Transformers)
+- **4:46 - 5:00** Conclusion & Slack Escalation Demo

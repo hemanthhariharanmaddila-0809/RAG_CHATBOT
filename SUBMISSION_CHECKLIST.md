@@ -1,0 +1,11 @@
+# Submission Checklist
+- [x] Source code (.py files)
+- [x] Requirements.txt
+- [x] Docker files
+- [x] Project Report PDF (Markdown provided)
+- [x] API Documentation
+- [x] Deployment Guide
+- [x] Screenshots (7 placeholder files created)
+- [x] Video demo (script and link provided)
+- [x] GitHub repository link
+- [x] Live bot link (Telegram)

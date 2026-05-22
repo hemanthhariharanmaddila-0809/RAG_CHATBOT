@@ -1,0 +1,6 @@
+{
+  "status": "ok",
+  "timestamp": "2026-05-22T14:30:00Z",
+  "faiss_loaded": true,
+  "redis_connected": true
+}
